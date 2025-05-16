@@ -1,3 +1,1 @@
-# webstudy
-# Loc
 # cuatui
